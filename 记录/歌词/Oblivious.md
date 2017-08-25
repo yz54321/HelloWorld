@@ -1,0 +1,74 @@
+<h1>Oblivious</h1>
+<br>
+<table>
+
+<tbody><tr>
+<th>歌手</th>
+<td>Kalafina</td>
+</tr>
+
+<tr>
+<th>作詞</th>
+<td>梶浦由記</td>
+</tr>
+
+<tr>
+<th>作曲</th>
+<td>梶浦由記</td>
+</tr>
+
+<tr>
+<th>編曲</th>
+<td>梶浦由記</td>
+</tr>
+</tbody>
+</table>
+<br>
+<br>
+<div >
+<ruby>本当<rp>(</rp><rt>ほんとう</rt><rp>)</rp></ruby>は<ruby>空<rp>(</rp><rt>そら</rt><rp>)</rp></ruby>を<ruby>飛<rp>(</rp><rt>と</rt><rp>)</rp></ruby>べると<ruby>知<rp>(</rp><rt>し</rt><rp>)</rp></ruby>っていたから<br>
+<ruby>羽<rp>(</rp><rt>は</rt><rp>)</rp></ruby>ばたくときが<ruby>怖<rp>(</rp><rt>こわ</rt><rp>)</rp></ruby>くて<ruby>風<rp>(</rp><rt>かぜ</rt><rp>)</rp></ruby>を<ruby>忘<rp>(</rp><rt>わす</rt><rp>)</rp></ruby>れた<br>
+<br>
+oblivious<br>
+<ruby>何処<rp>(</rp><rt>どこ</rt><rp>)</rp></ruby>へ<ruby>行<rp>(</rp><rt>ゆ</rt><rp>)</rp></ruby>くの<br>
+<ruby>遠<rp>(</rp><rt>とお</rt><rp>)</rp></ruby>くに<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>えるあの<ruby>蜃気楼<rp>(</rp><rt>しんきろう</rt><rp>)</rp></ruby><br>
+いつか<ruby>怯<rp>(</rp><rt>おび</rt><rp>)</rp></ruby>えながら<br>
+<ruby>二人<rp>(</rp><rt>ふたり</rt><rp>)</rp></ruby>の<ruby>未来<rp>(</rp><rt>みらい</rt><rp>)</rp></ruby>を<ruby>映<rp>(</rp><rt>うつ</rt><rp>)</rp></ruby>して<br>
+<br>
+<br>
+よるべない<ruby>心<rp>(</rp><rt>こころ</rt><rp>)</rp></ruby><ruby>二<rp>(</rp><rt>ふた</rt><rp>)</rp></ruby>つ<ruby>寄<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>り<ruby>添<rp>(</rp><rt>そ</rt><rp>)</rp></ruby>う<ruby>頃<rp>(</rp><rt>ころ</rt><rp>)</rp></ruby>に<br>
+<ruby>本当<rp>(</rp><rt>ほんとう</rt><rp>)</rp></ruby>の<ruby>悲<rp>(</rp><rt>かな</rt><rp>)</rp></ruby>しみがほら<ruby>翼<rp>(</rp><rt>つばさ</rt><rp>)</rp></ruby><ruby>広<rp>(</rp><rt>ひろ</rt><rp>)</rp></ruby>げて<br>
+<br>
+oblivious<br>
+<ruby>夜<rp>(</rp><rt>よる</rt><rp>)</rp></ruby>の<ruby>中<rp>(</rp><rt>なか</rt><rp>)</rp></ruby>で<br>
+<ruby>真昼<rp>(</rp><rt>まひる</rt><rp>)</rp></ruby>の<ruby>影<rp>(</rp><rt>かげ</rt><rp>)</rp></ruby>を<ruby>夢見<rp>(</rp><rt>ゆめみ</rt><rp>)</rp></ruby>るように<br>
+きっと<ruby>墜<rp>(</rp><rt>お</rt><rp>)</rp></ruby>ちて<ruby>行<rp>(</rp><rt>ゆ</rt><rp>)</rp></ruby>こう<br>
+<ruby>光<rp>(</rp><rt>ひかり</rt><rp>)</rp></ruby>へ<br>
+<br>
+<br>
+いつか　<ruby>君<rp>(</rp><rt>きみ</rt><rp>)</rp></ruby>と　<ruby>二人<rp>(</rp><rt>ふたり</rt><rp>)</rp></ruby><br>
+<ruby>夜<rp>(</rp><rt>よる</rt><rp>)</rp></ruby>を　<ruby>朝<rp>(</rp><rt>あさ</rt><rp>)</rp></ruby>を　<ruby>昼<rp>(</rp><rt>ひる</rt><rp>)</rp></ruby>を　<ruby>星<rp>(</rp><rt>ほし</rt><rp>)</rp></ruby>を　<ruby>幻想<rp>(</rp><rt>ゆめ</rt><rp>)</rp></ruby>を<br>
+<ruby>夏<rp>(</rp><rt>なつ</rt><rp>)</rp></ruby>を　<ruby>冬<rp>(</rp><rt>ふゆ</rt><rp>)</rp></ruby>を　<ruby>時<rp>(</rp><rt>とき</rt><rp>)</rp></ruby>を　<ruby>風<rp>(</rp><rt>かぜ</rt><rp>)</rp></ruby>を<br>
+<ruby>水<rp>(</rp><rt>みず</rt><rp>)</rp></ruby>を　<ruby>土<rp>(</rp><rt>つち</rt><rp>)</rp></ruby>を　<ruby>空<rp>(</rp><rt>そら</rt><rp>)</rp></ruby>を<br>
+we go further in the destiny……<br>
+<br>
+<br>
+<ruby>本当<rp>(</rp><rt>ほんとう</rt><rp>)</rp></ruby>は<ruby>空<rp>(</rp><rt>そら</rt><rp>)</rp></ruby>を<ruby>飛<rp>(</rp><rt>と</rt><rp>)</rp></ruby>べると<ruby>知<rp>(</rp><rt>し</rt><rp>)</rp></ruby>っていたから<br>
+<ruby>羽<rp>(</rp><rt>は</rt><rp>)</rp></ruby>ばたくときが<ruby>怖<rp>(</rp><rt>こわ</rt><rp>)</rp></ruby>くて<ruby>風<rp>(</rp><rt>かぜ</rt><rp>)</rp></ruby>を<ruby>忘<rp>(</rp><rt>わす</rt><rp>)</rp></ruby>れた<br>
+<br>
+……<ruby>空<rp>(</rp><rt>そら</rt><rp>)</rp></ruby>を<br>
+we go further in the destiny……<br>
+<br>
+oblivious<br>
+<ruby>側<rp>(</rp><rt>そば</rt><rp>)</rp></ruby>にいてね<br>
+<ruby>静<rp>(</rp><rt>しず</rt><rp>)</rp></ruby>かな<ruby>恋<rp>(</rp><rt>こい</rt><rp>)</rp></ruby>がほら<ruby>始<rp>(</rp><rt>はじ</rt><rp>)</rp></ruby>まるよ<br>
+いつか<ruby>震<rp>(</rp><rt>ふる</rt><rp>)</rp></ruby>えながら<br>
+<ruby>二人<rp>(</rp><rt>ふたり</rt><rp>)</rp></ruby>の<ruby>未来<rp>(</rp><rt>みらい</rt><rp>)</rp></ruby>へ<br>
+<br>
+oblivious<br>
+<ruby>何処<rp>(</rp><rt>どこ</rt><rp>)</rp></ruby>へ<ruby>行<rp>(</rp><rt>ゆ</rt><rp>)</rp></ruby>くの<br>
+<ruby>遠<rp>(</rp><rt>とお</rt><rp>)</rp></ruby>くへ<ruby>逃<rp>(</rp><rt>に</rt><rp>)</rp></ruby>げてゆく<ruby>水<rp>(</rp><rt>みず</rt><rp>)</rp></ruby>の<ruby>中<rp>(</rp><rt>なか</rt><rp>)</rp></ruby><br>
+<ruby>何<rp>(</rp><rt>どこ</rt><rp>)</rp></ruby>て<ruby>綺麗<rp>(</rp><rt>きれい</rt><rp>)</rp></ruby>な<ruby>声<rp>(</rp><rt>こえ</rt><rp>)</rp></ruby>で<br>
+<ruby>二人<rp>(</rp><rt>ふたり</rt><rp>)</rp></ruby>の<ruby>未来<rp>(</rp><rt>みらい</rt><rp>)</rp></ruby>を<br>
+<ruby>歌<rp>(</rp><rt>うた</rt><rp>)</rp></ruby>って
+</div>

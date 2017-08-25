@@ -1,0 +1,87 @@
+<h1>輪舞-revolution</h1>
+<br>
+<table>
+
+<tbody>
+<tr>
+<th>歌手</th>
+<td>奥井雅美</td>
+</tr>
+
+<tr>
+<th>作詞</th>
+<td>奥井雅美</td>
+</tr>
+
+<tr>
+<th>作曲</th>
+<td>矢吹俊郎</td>
+</tr>
+
+<tr>
+<th>編曲</th>
+<td>矢吹俊郎</td>
+</tr>
+
+
+</tbody>
+</table>
+<br>
+
+<div>
+<ruby>潔<rp>(</rp><rt>いさぎよ</rt><rp>)</rp></ruby>く　カッコ<ruby>良<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>く　<ruby>生<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きて<ruby>行<rp>(</rp><rt>ゆ</rt><rp>)</rp></ruby>こう… 「Just a long long time」<br>
+たとえ<ruby>２人<rp>(</rp><rt>ふたり</rt><rp>)</rp></ruby><ruby>離<rp>(</rp><rt>はな</rt><rp>)</rp></ruby>ればなれになっても… 「Let's go away」<br>
+Take my revolution<br>
+<br>
+<br>
+<ruby>光<rp>(</rp><rt>ひかり</rt><rp>)</rp></ruby><ruby>差<rp>(</rp><rt>さ</rt><rp>)</rp></ruby>す<ruby>校庭<rp>(</rp><rt>garden</rt><rp>)</rp></ruby>　<ruby>手<rp>(</rp><rt>て</rt><rp>)</rp></ruby>をとり<ruby>合<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>い<br>
+<ruby>誓<rp>(</rp><rt>ちか</rt><rp>)</rp></ruby>い<ruby>会<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>ったなぐさめ<ruby>会<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>った<br>
+もう　<ruby>恋<rp>(</rp><rt>こい</rt><rp>)</rp></ruby>は<ruby>二度<rp>(</rp><rt>にど</rt><rp>)</rp></ruby>としないよって<br>
+そんな<ruby>強<rp>(</rp><rt>つよ</rt><rp>)</rp></ruby>い<ruby>結束<rp>(</rp><rt>けっそく</rt><rp>)</rp></ruby>は<br>
+カタチを<ruby>変<rp>(</rp><rt>か</rt><rp>)</rp></ruby>え<br>
+<ruby>今<rp>(</rp><rt>いま</rt><rp>)</rp></ruby>じゃこんなにたくましい<br>
+<ruby>私達<rp>(</rp><rt>わたしたち</rt><rp>)</rp></ruby>のLife style, everyday . . . everytime 「everytime 」<br>
+<br>
+<ruby>頬<rp>(</rp><rt>ほほ</rt><rp>)</rp></ruby>を<ruby>寄<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>せあって<br>
+うつる<ruby>写真<rp>(</rp><rt>しゃしん</rt><rp>)</rp></ruby>の<ruby>笑顔<rp>(</rp><rt>えがお</rt><rp>)</rp></ruby>に<br>
+<ruby>少<rp>(</rp><rt>すこ</rt><rp>)</rp></ruby>しの<ruby>淋<rp>(</rp><rt>さびし</rt><rp>)</rp></ruby>しさつめ<ruby>込<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>んで「revolution」<br>
+<br>
+<ruby>潔<rp>(</rp><rt>いさぎよ</rt><rp>)</rp></ruby>く　カッコ<ruby>良<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>く　<ruby>明日<rp>(</rp><rt>あした</rt><rp>)</rp></ruby>からは<br>
+<ruby>誰<rp>(</rp><rt>だれ</rt><rp>)</rp></ruby>もが<ruby>振<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby>り<ruby>向<rp>(</rp><rt>む</rt><rp>)</rp></ruby>く<ruby>女<rp>(</rp><rt>おんな</rt><rp>)</rp></ruby>になる<br>
+たとえ<ruby>２人<rp>(</rp><rt>ふたり</rt><rp>)</rp></ruby><ruby>離<rp>(</rp><rt>はな</rt><rp>)</rp></ruby>ればなれになっても<br>
+<ruby>心<rp>(</rp><rt>こころ</rt><rp>)</rp></ruby>はずっと<ruby>一緒<rp>(</rp><rt>いっしょ</rt><rp>)</rp></ruby>に<br>
+<br>
+<br>
+<ruby>愛<rp>(</rp><rt>あい</rt><rp>)</rp></ruby>は　お<ruby>金<rp>(</rp><rt>かね</rt><rp>)</rp></ruby>では<ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>えないって<br>
+<ruby>知<rp>(</rp><rt>し</rt><rp>)</rp></ruby>っているけど<br>
+“I”でお<ruby>金<rp>(</rp><rt>かね</rt><rp>)</rp></ruby>は<ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>えるの？<br>
+<ruby>TV<rp>(</rp><rt>テレビ</rt><rp>)</rp></ruby>で<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>ってた<br>
+<ruby>無感動<rp>(</rp><rt>むかんどう</rt><rp>)</rp></ruby>…<ruby>無関心<rp>(</rp><rt>むかんしん</rt><rp>)</rp></ruby>きりがないね<br>
+<ruby>若<rp>(</rp><rt>わか</rt><rp>)</rp></ruby>い<ruby>子<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>みんなそうだと<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>われるのは<br>
+feel so bad! どうしょうもないじゃない 「Oh! feel so bad」<br>
+<br>
+でもね<ruby>私達<rp>(</rp><rt>わたしたち</rt><rp>)</rp></ruby><br>
+トモダチの<ruby>事<rp>(</rp><rt>こと</rt><rp>)</rp></ruby><ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>より<ruby>大切<rp>(</rp><rt>たいせつ</rt><rp>)</rp></ruby>にしてる<br>
+きっと<ruby>大人<rp>(</rp><rt>おとな</rt><rp>)</rp></ruby>よりも 「revolution」<br>
+<br>
+<ruby>夢<rp>(</rp><rt>ゆめ</rt><rp>)</rp></ruby>を<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>て　<ruby>涙<rp>(</rp><rt>なみだ</rt><rp>)</rp></ruby>して　<ruby>傷<rp>(</rp><rt>きず</rt><rp>)</rp></ruby>ついても<br>
+<ruby>現実<rp>(</rp><rt>げんじつ</rt><rp>)</rp></ruby>はがむしゃらに<ruby>来<rp>(</rp><rt>く</rt><rp>)</rp></ruby>るし<br>
+<ruby>自分<rp>(</rp><rt>じぶん</rt><rp>)</rp></ruby>の<ruby>居場所<rp>(</rp><rt>いばしょ</rt><rp>)</rp></ruby>　<ruby>存在<rp>(</rp><rt>そんざい</rt><rp>)</rp></ruby><ruby>価値<rp>(</rp><rt>かち</rt><rp>)</rp></ruby>は<ruby>失<rp>(</rp><rt>な</rt><rp>)</rp></ruby>くせない<br>
+<ruby>自分<rp>(</rp><rt>じぶん</rt><rp>)</rp></ruby>を<ruby>守<rp>(</rp><rt>まも</rt><rp>)</rp></ruby>るために<br>
+<br>
+<br>
+I'll go my way　<ruby>戻<rp>(</rp><rt>もど</rt><rp>)</rp></ruby>れない 　それぞれの<br>
+<ruby>道<rp>(</rp><rt>みち</rt><rp>)</rp></ruby>を<ruby>選<rp>(</rp><rt>えら</rt><rp>)</rp></ruby>ぶ<ruby>時<rp>(</rp><rt>とき</rt><rp>)</rp></ruby>が<ruby>来<rp>(</rp><rt>く</rt><rp>)</rp></ruby>る<ruby>前<rp>(</rp><rt>まえ</rt><rp>)</rp></ruby>に<br>
+こんなにも　こんなにも<br>
+<ruby>大切<rp>(</rp><rt>たいせつ</rt><rp>)</rp></ruby>な<ruby>想<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>い<ruby>出<rp>(</rp><rt>で</rt><rp>)</rp></ruby>… とき<ruby>放<rp>(</rp><rt>はな</rt><rp>)</rp></ruby>つよ…<br>
+<br>
+Take my revolution　<ruby>生<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きて<ruby>行<rp>(</rp><rt>ゆ</rt><rp>)</rp></ruby>こう<br>
+<ruby>現実<rp>(</rp><rt>げんじつ</rt><rp>)</rp></ruby>はがむしゃらに<ruby>来<rp>(</rp><rt>く</rt><rp>)</rp></ruby>るし<br>
+<ruby>自分<rp>(</rp><rt>じぶん</rt><rp>)</rp></ruby>の<ruby>居場所<rp>(</rp><rt>いばしょ</rt><rp>)</rp></ruby>　<ruby>存在<rp>(</rp><rt>そんざい</rt><rp>)</rp></ruby><ruby>価値<rp>(</rp><rt>かち</rt><rp>)</rp></ruby>を<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>つけたい<br>
+<ruby>今日<rp>(</rp><rt>きょう</rt><rp>)</rp></ruby>までの<ruby>自分<rp>(</rp><rt>じぶん</rt><rp>)</rp></ruby>を<br>
+<br>
+<ruby>潔<rp>(</rp><rt>いさぎよ</rt><rp>)</rp></ruby>く　<ruby>脱<rp>(</rp><rt>ぬ</rt><rp>)</rp></ruby>ぎ<ruby>捨<rp>(</rp><rt>す</rt><rp>)</rp></ruby>てる　<ruby>裸<rp>(</rp><rt>はだか</rt><rp>)</rp></ruby>になる<br>
+<ruby>自由<rp>(</rp><rt>じゆう</rt><rp>)</rp></ruby>を<ruby>舞<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>う<ruby>薔薇<rp>(</rp><rt>ばら</rt><rp>)</rp></ruby>のように<br>
+たとえ<ruby>２人<rp>(</rp><rt>ふたり</rt><rp>)</rp></ruby><ruby>離<rp>(</rp><rt>はな</rt><rp>)</rp></ruby>ればなれになっても<br>
+<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>は<ruby>世界<rp>(</rp><rt>せかい</rt><rp>)</rp></ruby>を<ruby>変<rp>(</rp><rt>か</rt><rp>)</rp></ruby>える
+</div>

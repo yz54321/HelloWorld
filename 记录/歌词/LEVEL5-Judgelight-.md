@@ -1,0 +1,88 @@
+<h1>LEVEL5-Judgelight-</h1>
+<br>
+<table>
+<tbody><tr>
+<th>歌手</th>
+<td>fripSide</td>
+</tr>
+
+<tr>
+<th>作詞者</th>
+<td>fripSide</td>
+</tr>
+
+<tr>
+<th>作曲者</th>
+<td>八木沼悟志</td>
+</tr>
+
+<tr>
+<th>編曲者</th>
+<td>八木沼悟志</td>
+</tr>
+
+</tbody>
+</table>
+<br>
+<br>
+<div >
+<ruby>響<rp>(</rp><rt>ひび</rt><rp>)</rp></ruby>き<ruby>合<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>う　<ruby>願<rp>(</rp><rt>ねが</rt><rp>)</rp></ruby>いが<ruby>今<rp>(</rp><rt>いま</rt><rp>)</rp></ruby>、<ruby>覚醒<rp>(</rp><rt>めざ</rt><rp>)</rp></ruby>めてく<br>
+<ruby>譲<rp>(</rp><rt>ゆず</rt><rp>)</rp></ruby>れない<ruby>未来<rp>(</rp><rt>みらい</rt><rp>)</rp></ruby>のために<br>
+<ruby>巡<rp>(</rp><rt>めぐ</rt><rp>)</rp></ruby>り<ruby>逢<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>う　<ruby>運命<rp>(</rp><rt>うんめい</rt><rp>)</rp></ruby>を<ruby>超<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>えたその<ruby>先<rp>(</rp><rt>さき</rt><rp>)</rp></ruby>に<br>
+この<ruby>想<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>い<ruby>輝<rp>(</rp><rt>かがや</rt><rp>)</rp></ruby>くから<br>
+<br>
+<br>
+ここじゃない<ruby>未来<rp>(</rp><rt>みらい</rt><rp>)</rp></ruby>に<ruby>想<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>い<ruby>託<rp>(</rp><rt>たく</rt><rp>)</rp></ruby>してみては<br>
+<ruby>強<rp>(</rp><rt>つよ</rt><rp>)</rp></ruby>さの<ruby>本当<rp>(</rp><rt>ほんとう</rt><rp>)</rp></ruby>の<ruby>意味<rp>(</rp><rt>いみ</rt><rp>)</rp></ruby>を<ruby>捜<rp>(</rp><rt>さが</rt><rp>)</rp></ruby>し<ruby>続<rp>(</rp><rt>つづ</rt><rp>)</rp></ruby>けてた<br>
+<br>
+ありのままの<ruby>痛<rp>(</rp><rt>いた</rt><rp>)</rp></ruby>みを<ruby>受<rp>(</rp><rt>う</rt><rp>)</rp></ruby>け<ruby>入<rp>(</rp><rt>い</rt><rp>)</rp></ruby>れるその<ruby>意味<rp>(</rp><rt>いみ</rt><rp>)</rp></ruby>を<br>
+<ruby>明日<rp>(</rp><rt>あした</rt><rp>)</rp></ruby>へ<ruby>走<rp>(</rp><rt>はし</rt><rp>)</rp></ruby>り<ruby>続<rp>(</rp><rt>つづ</rt><rp>)</rp></ruby>ける<ruby>君<rp>(</rp><rt>きみ</rt><rp>)</rp></ruby>に<ruby>知<rp>(</rp><rt>し</rt><rp>)</rp></ruby>った<br>
+<br>
+<ruby>巡<rp>(</rp><rt>めぐ</rt><rp>)</rp></ruby>りゆく　<ruby>景色<rp>(</rp><rt>けしき</rt><rp>)</rp></ruby>が<ruby>今<rp>(</rp><rt>いま</rt><rp>)</rp></ruby>、<ruby>流<rp>(</rp><rt>なが</rt><rp>)</rp></ruby>れてく<br>
+<ruby>手繰<rp>(</rp><rt>たぐ</rt><rp>)</rp></ruby>り<ruby>寄<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>せた<ruby>世界<rp>(</rp><rt>せかい</rt><rp>)</rp></ruby>の<ruby>先<rp>(</rp><rt>さき</rt><rp>)</rp></ruby><br>
+<ruby>降<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby>り<ruby>注<rp>(</rp><rt>そそ</rt><rp>)</rp></ruby>ぐ　シグナルを<ruby>躰<rp>(</rp><rt>からだ</rt><rp>)</rp></ruby>で<ruby>感<rp>(</rp><rt>かん</rt><rp>)</rp></ruby>じて<br>
+<ruby>解<rp>(</rp><rt>と</rt><rp>)</rp></ruby>き<ruby>放<rp>(</rp><rt>はな</rt><rp>)</rp></ruby>つ<ruby>今<rp>(</rp><rt>いま</rt><rp>)</rp></ruby><ruby>全<rp>(</rp><rt>すべ</rt><rp>)</rp></ruby>てを<br>
+<br>
+Just truth in my heart<br>
+いつだって<ruby>迷<rp>(</rp><rt>まよ</rt><rp>)</rp></ruby>わないよ<br>
+<ruby>消<rp>(</rp><rt>け</rt><rp>)</rp></ruby>せない<ruby>想<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>いがあるから<br>
+<ruby>解<rp>(</rp><rt>と</rt><rp>)</rp></ruby>き<ruby>明<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>かす　<ruby>真実<rp>(</rp><rt>しんじつ</rt><rp>)</rp></ruby>から　<ruby>瞳<rp>(</rp><rt>め</rt><rp>)</rp></ruby>を<ruby>逸<rp>(</rp><rt>そ</rt><rp>)</rp></ruby>らさずに<br>
+I'll reach the next stage to realize all.<br>
+<br>
+<br>
+<ruby>遠<rp>(</rp><rt>とお</rt><rp>)</rp></ruby>く<ruby>感<rp>(</rp><rt>かん</rt><rp>)</rp></ruby>じてた　<ruby>君<rp>(</rp><rt>きみ</rt><rp>)</rp></ruby>が<ruby>走<rp>(</rp><rt>はし</rt><rp>)</rp></ruby>る<ruby>背中<rp>(</rp><rt>せなか</rt><rp>)</rp></ruby>を<br>
+いつからだろう　こんなにも<ruby>近<rp>(</rp><rt>ちか</rt><rp>)</rp></ruby>くに<ruby>感<rp>(</rp><rt>かん</rt><rp>)</rp></ruby>じる<br>
+<br>
+<ruby>不安<rp>(</rp><rt>ふあん</rt><rp>)</rp></ruby><ruby>隠<rp>(</rp><rt>かく</rt><rp>)</rp></ruby>し<ruby>切<rp>(</rp><rt>き</rt><rp>)</rp></ruby>れずに　<ruby>迫<rp>(</rp><rt>せ</rt><rp>)</rp></ruby>る<ruby>空<rp>(</rp><rt>そら</rt><rp>)</rp></ruby>を<ruby>見上<rp>(</rp><rt>みあ</rt><rp>)</rp></ruby>げた<br>
+<ruby>傷<rp>(</rp><rt>きず</rt><rp>)</rp></ruby>ついた<ruby>記憶<rp>(</rp><rt>きおく</rt><rp>)</rp></ruby>　いつか<ruby>乗<rp>(</rp><rt>の</rt><rp>)</rp></ruby>り<ruby>越<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>えるよ<br>
+<br>
+<ruby>憧<rp>(</rp><rt>あこが</rt><rp>)</rp></ruby>れは　<ruby>能力<rp>(</rp><rt>ちから</rt><rp>)</rp></ruby>を<ruby>今<rp>(</rp><rt>いま</rt><rp>)</rp></ruby>　<ruby>呼<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>び<ruby>起<rp>(</rp><rt>お</rt><rp>)</rp></ruby>こす<br>
+<ruby>守<rp>(</rp><rt>まも</rt><rp>)</rp></ruby>りたいものがあるから<br>
+<ruby>巡<rp>(</rp><rt>めぐ</rt><rp>)</rp></ruby>りゆく　<ruby>景色<rp>(</rp><rt>けしき</rt><rp>)</rp></ruby><ruby>胸<rp>(</rp><rt>むね</rt><rp>)</rp></ruby>に　<ruby>駆<rp>(</rp><rt>か</rt><rp>)</rp></ruby>け<ruby>上<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>がるだけ<br>
+<ruby>痛<rp>(</rp><rt>いた</rt><rp>)</rp></ruby>みは<ruby>風<rp>(</rp><rt>かぜ</rt><rp>)</rp></ruby>に<ruby>消<rp>(</rp><rt>き</rt><rp>)</rp></ruby>えてく<br>
+<br>
+Believe in Judgelight<br>
+<ruby>運命<rp>(</rp><rt>うんめい</rt><rp>)</rp></ruby>さえ　<ruby>撃<rp>(</rp><rt>う</rt><rp>)</rp></ruby>ち<ruby>抜<rp>(</rp><rt>ぬ</rt><rp>)</rp></ruby>いて<br>
+<ruby>夜明<rp>(</rp><rt>よあ</rt><rp>)</rp></ruby>けをこの<ruby>手<rp>(</rp><rt>て</rt><rp>)</rp></ruby>で<ruby>造<rp>(</rp><rt>つく</rt><rp>)</rp></ruby>ろう<br>
+<ruby>変<rp>(</rp><rt>か</rt><rp>)</rp></ruby>えてゆく<ruby>勇気<rp>(</rp><rt>ゆうき</rt><rp>)</rp></ruby>と<ruby>変<rp>(</rp><rt>か</rt><rp>)</rp></ruby>わらない<ruby>心<rp>(</rp><rt>こころ</rt><rp>)</rp></ruby>で<br>
+I believe myself and precious emotion<br>
+<ruby>打<rp>(</rp><rt>う</rt><rp>)</rp></ruby>ち<ruby>砕<rp>(</rp><rt>くだ</rt><rp>)</rp></ruby>く　この<ruby>想<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>いで！<br>
+<br>
+<br>
+<ruby>始<rp>(</rp><rt>はじ</rt><rp>)</rp></ruby>まりの　<ruby>光<rp>(</rp><rt>ひかり</rt><rp>)</rp></ruby>の<ruby>中<rp>(</rp><rt>なか</rt><rp>)</rp></ruby>　<ruby>誓<rp>(</rp><rt>ちか</rt><rp>)</rp></ruby>い<ruby>合<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>う<br>
+<ruby>果<rp>(</rp><rt>は</rt><rp>)</rp></ruby>てなき<ruby>闇<rp>(</rp><rt>やみ</rt><rp>)</rp></ruby>を<ruby>裁<rp>(</rp><rt>さば</rt><rp>)</rp></ruby>くこと<br>
+<ruby>恐<rp>(</rp><rt>おそ</rt><rp>)</rp></ruby>れてた　<ruby>孤独<rp>(</rp><rt>こどく</rt><rp>)</rp></ruby>の<ruby>渦<rp>(</rp><rt>うず</rt><rp>)</rp></ruby>　<ruby>溺<rp>(</rp><rt>おぼ</rt><rp>)</rp></ruby>れることに<br>
+だけどもう<ruby>振<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby>り<ruby>向<rp>(</rp><rt>む</rt><rp>)</rp></ruby>かない<br>
+<br>
+<ruby>巡<rp>(</rp><rt>めぐ</rt><rp>)</rp></ruby>りゆく　<ruby>景色<rp>(</rp><rt>けしき</rt><rp>)</rp></ruby>が<ruby>今<rp>(</rp><rt>いま</rt><rp>)</rp></ruby>、<ruby>流<rp>(</rp><rt>なが</rt><rp>)</rp></ruby>れてく<br>
+<ruby>手繰<rp>(</rp><rt>たぐ</rt><rp>)</rp></ruby>り<ruby>寄<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>せた<ruby>世界<rp>(</rp><rt>せかい</rt><rp>)</rp></ruby>の<ruby>先<rp>(</rp><rt>さき</rt><rp>)</rp></ruby><br>
+<ruby>降<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby>り<ruby>注<rp>(</rp><rt>そそ</rt><rp>)</rp></ruby>ぐ　シグナルを<ruby>躰<rp>(</rp><rt>からだ</rt><rp>)</rp></ruby>で<ruby>感<rp>(</rp><rt>かん</rt><rp>)</rp></ruby>じて<br>
+<ruby>解<rp>(</rp><rt>と</rt><rp>)</rp></ruby>き<ruby>放<rp>(</rp><rt>はな</rt><rp>)</rp></ruby>つ<ruby>今<rp>(</rp><rt>いま</rt><rp>)</rp></ruby><ruby>全<rp>(</rp><rt>すべ</rt><rp>)</rp></ruby>てを<br>
+<br>
+Just truth in my heart<br>
+いつだって<ruby>迷<rp>(</rp><rt>まよ</rt><rp>)</rp></ruby>わないよ<br>
+<ruby>消<rp>(</rp><rt>け</rt><rp>)</rp></ruby>せない<ruby>想<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>いがあるから<br>
+<ruby>解<rp>(</rp><rt>と</rt><rp>)</rp></ruby>き<ruby>明<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>かす　<ruby>真実<rp>(</rp><rt>しんじつ</rt><rp>)</rp></ruby>から　<ruby>瞳<rp>(</rp><rt>め</rt><rp>)</rp></ruby>を<ruby>逸<rp>(</rp><rt>そ</rt><rp>)</rp></ruby>らさずに<br>
+I'll reach the next stage to realize all.<br>
+<ruby>確<rp>(</rp><rt>たし</rt><rp>)</rp></ruby>かな<ruby>絆<rp>(</rp><rt>きずな</rt><rp>)</rp></ruby><ruby>信<rp>(</rp><rt>しん</rt><rp>)</rp></ruby>じて
+</div>

@@ -1,19 +1,36 @@
-<!DOCTYPE html>
-<html>
-<head lang="en">
-    <meta charset="UTF-8">
-    <title></title>
-</head>
-<body>
-緋色月下、狂咲ノ絶-1st Anniversary Remix<br>
+<h1>緋色月下、狂咲ノ絶-1st Anniversary Remix</h1>
 <br>
-Circle：EastNewSound<br>
-Album：Sacred Factor<br>
-編曲：黒鳥<br>
-作詞：葉月なの , いずみん<br>
-歌：葉月なの<br>
-原曲：U.N.オーエンは彼女なのか? / 東方紅魔郷<br>
+<table>
+<tbody>
+<tr>
+<th>Circle</th>
+<td>EastNewSound</td>
+</tr>
+<tr>
+<th>Album</th>
+<td>Sacred Factor</td>
+</tr>
+<tr>
+<th>編曲</th>
+<td>黒鳥</td>
+</tr>
+<tr>
+<th>作詞</th>
+<td>葉月なの , いずみん</td>
+</tr>
+<tr>
+<th>歌</th>
+<td>葉月なの</td>
+</tr>
+<tr>
+<th>原曲</th>
+<td>U.N.オーエンは彼女なのか? / 東方紅魔郷</td>
+</tr>
+</tbody>
+</table>
 <br>
+<br>
+<div>
 <ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>の<ruby>中<rp>(</rp><rt>なか</rt><rp>)</rp></ruby>の　<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>の<ruby>中<rp>(</rp><rt>なか</rt><rp>)</rp></ruby>の　<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>の<ruby>中<rp>(</rp><rt>なか</rt><rp>)</rp></ruby>の　<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>が<br>
 ひとつ　ひとつ　<ruby>単語<rp>(</rp><rt>たんご</rt><rp>)</rp></ruby>を<br>
 <ruby>何度<rp>(</rp><rt>なんど</rt><rp>)</rp></ruby>も　<ruby>何度<rp>(</rp><rt>なんど</rt><rp>)</rp></ruby>も　<ruby>何度<rp>(</rp><rt>なんど</rt><rp>)</rp></ruby>も　<ruby>何度<rp>(</rp><rt>なんど</rt><rp>)</rp></ruby>も　<ruby>無尽蔵<rp>(</rp><rt>むじんぞう</rt><rp>)</rp></ruby>に<br>
@@ -111,5 +128,4 @@ Album：Sacred Factor<br>
 ごめんなさい　これが<ruby>最後<rp>(</rp><rt>さいご</rt><rp>)</rp></ruby>の<ruby>愛<rp>(</rp><rt>あい</rt><rp>)</rp></ruby>し<ruby>方<rp>(</rp><rt>かた</rt><rp>)</rp></ruby>だったから<br>
 <ruby>其<rp>(</rp><rt>ソ</rt><rp>)</rp></ruby>ノ<ruby>四肢<rp>(</rp><rt>シシ</rt><rp>)</rp></ruby>を<ruby>贄<rp>(</rp><rt>にえ</rt><rp>)</rp></ruby>と<ruby>捧<rp>(</rp><rt>ささ</rt><rp>)</rp></ruby>げ　<ruby>我<rp>(</rp><rt>わ</rt><rp>)</rp></ruby>が<ruby>足元<rp>(</rp><rt>あしもと</rt><rp>)</rp></ruby>の<ruby>死屍<rp>(</rp><rt>しし</rt><rp>)</rp></ruby>となれ<br>
 ずっと<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>の<ruby>傍<rp>(</rp><rt>そば</rt><rp>)</rp></ruby>に　あなたといきたいの…
-</body>
-</html>
+</div>

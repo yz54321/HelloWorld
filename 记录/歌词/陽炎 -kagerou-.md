@@ -1,19 +1,32 @@
-<!DOCTYPE html>
-<html>
-<head lang="en">
-    <meta charset="UTF-8">
-    <title></title>
-</head>
-<body>
-天下取り隊
+<h1>陽炎-kagerou-</h1>
 <br>
-<br>
+<table>
 
-陽炎-kagerou-<br>
-天下取り隊(明坂聡美・伊瀬茉莉也・國立幸・持月玲依)<br>
-作詞：大隅知宇<br>
-作曲：大隅知宇<br>
+<tbody><tr>
+<th>歌手</th>
+<td>天下取り隊(明坂聡美・伊瀬茉莉也・國立幸・持月玲依)</td>
+</tr>
+
+<tr>
+<th>作詞</th>
+<td>大隅知宇</td>
+</tr>
+
+<tr>
+<th>作曲</th>
+<td>大隅知宇</td>
+</tr>
+
+<tr>
+<th>編曲</th>
+<td>大隅知宇 pOlOn</td>
+</tr>
+
+</tbody>
+</table>
 <br>
+<br>
+<div>
 ああ　<ruby>言葉<rp>(</rp><rt>ことば</rt><rp>)</rp></ruby>には<ruby>出来<rp>(</rp><rt>でき</rt><rp>)</rp></ruby>ない　<ruby>想<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>いを<ruby>胸<rp>(</rp><rt>むね</rt><rp>)</rp></ruby>に<ruby>抱<rp>(</rp><rt>だ</rt><rp>)</rp></ruby>いて<br>
 <ruby>修羅<rp>(</rp><rt>しゅら</rt><rp>)</rp></ruby>の<ruby>住<rp>(</rp><rt>す</rt><rp>)</rp></ruby>む<ruby>世界<rp>(</rp><rt>せかい</rt><rp>)</rp></ruby>へ　<ruby>今日<rp>(</rp><rt>きょう</rt><rp>)</rp></ruby>もいざなわれてゆく<br>
 <br>
@@ -49,6 +62,4 @@
 <ruby>戦国<rp>(</rp><rt>せんごく</rt><rp>)</rp></ruby><ruby>乙女<rp>(</rp><rt>おとめ</rt><rp>)</rp></ruby>よ<ruby>咲<rp>(</rp><rt>さ</rt><rp>)</rp></ruby>き<ruby>乱<rp>(</rp><rt>みだ</rt><rp>)</rp></ruby>れ　<ruby>艶<rp>(</rp><rt>あで</rt><rp>)</rp></ruby>やかに<ruby>宙<rp>(</rp><rt>ちゅう</rt><rp>)</rp></ruby>を<ruby>舞<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>い<ruby>上<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>がり<br>
 <ruby>浮世<rp>(</rp><rt>うきよ</rt><rp>)</rp></ruby>の<ruby>幻<rp>(</rp><rt>まぼろし</rt><rp>)</rp></ruby><ruby>切<rp>(</rp><rt>き</rt><rp>)</rp></ruby>り<ruby>裂<rp>(</rp><rt>さ</rt><rp>)</rp></ruby>いて　<ruby>蒼<rp>(</rp><rt>あお</rt><rp>)</rp></ruby>い<ruby>火<rp>(</rp><rt>ひ</rt><rp>)</rp></ruby>が<ruby>今<rp>(</rp><rt>いま</rt><rp>)</rp></ruby><ruby>燃<rp>(</rp><rt>も</rt><rp>)</rp></ruby>え<ruby>上<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>がる<br>
 <ruby>陽炎<rp>(</rp><rt>かげろう</rt><rp>)</rp></ruby>がゆらゆら<ruby>揺<rp>(</rp><rt>ゆ</rt><rp>)</rp></ruby>れる<br>
-
-</body>
-</html>
+</div>
