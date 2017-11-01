@@ -1,4 +1,3 @@
-DOG DAYS''
 
 玉响 毕业写真
 青之驱魔师 京都不净王篇
@@ -33,7 +32,7 @@ Infinite Stratos	s1 s2
 我们没有翅膀
 花开伊吕波
 日常
-DOG DAYS		s1 ' 
+DOG DAYS		s1 ' ''
 丹特丽安的书架
 曾几何时天魔的黑兔
 猫神八百万
