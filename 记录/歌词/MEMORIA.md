@@ -1,0 +1,67 @@
+<h1>MEMORIA</h1>
+<br/>
+
+<table>
+
+<tbody><tr>
+<th>歌手</th>
+<td>藍井エイル</td>
+</tr>
+
+<tr>
+<th>作詞</th>
+<td>Eir、Fumio Yasuda</td>
+</tr>
+
+<tr>
+<th>作曲</th>
+<td>Fumio Yasuda</td>
+</tr>
+
+<tr>
+<th>編曲</th>
+<td>Kayo Shimokawa</td>
+</tr>
+
+</tbody>
+</table>
+
+<div>
+<ruby>静<rp>(</rp><rt>しず</rt><rp>)</rp></ruby>かに<ruby>移<rp>(</rp><rt>うつ</rt><rp>)</rp></ruby>りゆく　<ruby>遠<rp>(</rp><rt>とお</rt><rp>)</rp></ruby>い<ruby>記憶<rp>(</rp><rt>きおく</rt><rp>)</rp></ruby>の<ruby>中<rp>(</rp><rt>なか</rt><rp>)</rp></ruby><br>
+<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>い<ruby>出<rp>(</rp><rt>で</rt><rp>)</rp></ruby>に<ruby>寄<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>り<ruby>添<rp>(</rp><rt>そ</rt><rp>)</rp></ruby>いながら　<ruby>君<rp>(</rp><rt>きみ</rt><rp>)</rp></ruby>を<ruby>想<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>えるなら<br>
+<br>
+<br>
+いつも<ruby>見慣<rp>(</rp><rt>みな</rt><rp>)</rp></ruby>れてる<ruby>窓辺<rp>(</rp><rt>まどべ</rt><rp>)</rp></ruby>に<ruby>映<rp>(</rp><rt>うつ</rt><rp>)</rp></ruby>った<ruby>沈<rp>(</rp><rt>しず</rt><rp>)</rp></ruby>む<ruby>君<rp>(</rp><rt>きみ</rt><rp>)</rp></ruby>の<ruby>横顔<rp>(</rp><rt>よこがお</rt><rp>)</rp></ruby><br>
+<ruby>涙声<rp>(</rp><rt>なみだこえ</rt><rp>)</rp></ruby>さえ<ruby>冷<rp>(</rp><rt>つめ</rt><rp>)</rp></ruby>たく<ruby>呑<rp>(</rp><rt>の</rt><rp>)</rp></ruby>み<ruby>込<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>んだその<ruby>瞳<rp>(</rp><rt>ひとみ</rt><rp>)</rp></ruby>は<ruby>明日<rp>(</rp><rt>あした</rt><rp>)</rp></ruby>を<ruby>向<rp>(</rp><rt>む</rt><rp>)</rp></ruby>いていた<br>
+<br>
+ああ　<ruby>逆<rp>(</rp><rt>さか</rt><rp>)</rp></ruby>らえぬ<ruby>運命<rp>(</rp><rt>さだめ</rt><rp>)</rp></ruby>と<ruby>知<rp>(</rp><rt>し</rt><rp>)</rp></ruby>っても<ruby>怖<rp>(</rp><rt>こわ</rt><rp>)</rp></ruby>くない<br>
+<ruby>心<rp>(</rp><rt>こころ</rt><rp>)</rp></ruby>から<ruby>信<rp>(</rp><rt>しん</rt><rp>)</rp></ruby>じている<br>
+<br>
+<ruby>静<rp>(</rp><rt>しず</rt><rp>)</rp></ruby>かに<ruby>移<rp>(</rp><rt>うつ</rt><rp>)</rp></ruby>りゆく　<ruby>遠<rp>(</rp><rt>とお</rt><rp>)</rp></ruby>い<ruby>記憶<rp>(</rp><rt>きおく</rt><rp>)</rp></ruby>の<ruby>中<rp>(</rp><rt>なか</rt><rp>)</rp></ruby><br>
+<ruby>君<rp>(</rp><rt>きみ</rt><rp>)</rp></ruby>と<ruby>過<rp>(</rp><rt>す</rt><rp>)</rp></ruby>ごした<ruby>証<rp>(</rp><rt>あかし</rt><rp>)</rp></ruby>は<ruby>確<rp>(</rp><rt>たし</rt><rp>)</rp></ruby>かにここにある<br>
+<ruby>溢<rp>(</rp><rt>あふ</rt><rp>)</rp></ruby>れ<ruby>出<rp>(</rp><rt>だ</rt><rp>)</rp></ruby>す<ruby>気持<rp>(</rp><rt>きも</rt><rp>)</rp></ruby>ちを<ruby>教<rp>(</rp><rt>おし</rt><rp>)</rp></ruby>えてくれたから<br>
+この<ruby>世界<rp>(</rp><rt>せかい</rt><rp>)</rp></ruby>がなくなっても<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>はそこにいる<br>
+<br>
+<br>
+<ruby>海<rp>(</rp><rt>うみ</rt><rp>)</rp></ruby>に<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きたいといつしか<ruby>話<rp>(</rp><rt>はな</rt><rp>)</rp></ruby>した<br>
+<ruby>君<rp>(</rp><rt>きみ</rt><rp>)</rp></ruby>と<ruby>二人<rp>(</rp><rt>ふたり</rt><rp>)</rp></ruby>で<ruby>叶<rp>(</rp><rt>かな</rt><rp>)</rp></ruby>わぬ<ruby>夢<rp>(</rp><rt>ゆめ</rt><rp>)</rp></ruby>を<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>た<br>
+<br>
+ああ　<ruby>降<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby>りしきる<ruby>雪<rp>(</rp><rt>ゆき</rt><rp>)</rp></ruby>の<ruby>中<rp>(</rp><rt>なか</rt><rp>)</rp></ruby><ruby>彷徨<rp>(</rp><rt>さまよ</rt><rp>)</rp></ruby>い<br>
+<ruby>傷<rp>(</rp><rt>きず</rt><rp>)</rp></ruby>つく<ruby>君<rp>(</rp><rt>きみ</rt><rp>)</rp></ruby>はもう<ruby>独<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>りじゃない<br>
+<br>
+どんなに<ruby>離<rp>(</rp><rt>はな</rt><rp>)</rp></ruby>れても<ruby>忘<rp>(</rp><rt>わす</rt><rp>)</rp></ruby>れることはない<br>
+<ruby>君<rp>(</rp><rt>きみ</rt><rp>)</rp></ruby>が<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>に<ruby>光<rp>(</rp><rt>ひかり</rt><rp>)</rp></ruby>を<ruby>教<rp>(</rp><rt>おし</rt><rp>)</rp></ruby>えてくれたから<br>
+<ruby>溢<rp>(</rp><rt>あふ</rt><rp>)</rp></ruby>れ<ruby>出<rp>(</rp><rt>だ</rt><rp>)</rp></ruby>す<ruby>涙<rp>(</rp><rt>なみだ</rt><rp>)</rp></ruby>は<ruby>君<rp>(</rp><rt>きみ</rt><rp>)</rp></ruby>へのありがとう<br>
+あの<ruby>日<rp>(</rp><rt>ひ</rt><rp>)</rp></ruby><ruby>交<rp>(</rp><rt>か</rt><rp>)</rp></ruby>わした<ruby>約束<rp>(</rp><rt>やくそく</rt><rp>)</rp></ruby>の<ruby>空<rp>(</rp><rt>そら</rt><rp>)</rp></ruby>は<ruby>色褪<rp>(</rp><rt>いろあ</rt><rp>)</rp></ruby>せない<br>
+<br>
+<br>
+<ruby>静<rp>(</rp><rt>しず</rt><rp>)</rp></ruby>かに<ruby>移<rp>(</rp><rt>うつ</rt><rp>)</rp></ruby>りゆく　<ruby>遠<rp>(</rp><rt>とお</rt><rp>)</rp></ruby>い<ruby>記憶<rp>(</rp><rt>きおく</rt><rp>)</rp></ruby>の<ruby>中<rp>(</rp><rt>なか</rt><rp>)</rp></ruby><br>
+<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>い<ruby>出<rp>(</rp><rt>で</rt><rp>)</rp></ruby>に<ruby>寄<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>り<ruby>添<rp>(</rp><rt>そ</rt><rp>)</rp></ruby>いながら　<ruby>君<rp>(</rp><rt>きみ</rt><rp>)</rp></ruby>を<ruby>想<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>えるなら<br>
+<br>
+どんなに<ruby>離<rp>(</rp><rt>はな</rt><rp>)</rp></ruby>れても<ruby>忘<rp>(</rp><rt>わす</rt><rp>)</rp></ruby>れることはない<br>
+<ruby>君<rp>(</rp><rt>きみ</rt><rp>)</rp></ruby>と<ruby>過<rp>(</rp><rt>す</rt><rp>)</rp></ruby>ごした<ruby>証<rp>(</rp><rt>あかし</rt><rp>)</rp></ruby>は<ruby>確<rp>(</rp><rt>たし</rt><rp>)</rp></ruby>かにここにある<br>
+<ruby>溢<rp>(</rp><rt>あふ</rt><rp>)</rp></ruby>れ<ruby>出<rp>(</rp><rt>で</rt><rp>)</rp></ruby>す<ruby>気持<rp>(</rp><rt>きも</rt><rp>)</rp></ruby>ちを<ruby>教<rp>(</rp><rt>おし</rt><rp>)</rp></ruby>えてくれたから<br>
+この<ruby>世界<rp>(</rp><rt>せかい</rt><rp>)</rp></ruby>がなくなっても<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>はそこにいる<br>
+<br>
+あの<ruby>日<rp>(</rp><rt>ひ</rt><rp>)</rp></ruby><ruby>交<rp>(</rp><rt>か</rt><rp>)</rp></ruby>わした<ruby>約束<rp>(</rp><rt>やくそく</rt><rp>)</rp></ruby>の<ruby>空<rp>(</rp><rt>そら</rt><rp>)</rp></ruby>は<ruby>色褪<rp>(</rp><rt>いろあ</rt><rp>)</rp></ruby>せない
+</div>
