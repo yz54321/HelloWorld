@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 TRINITY SEVEN 七人魔法使
+=======
+TRINITY SEVEN
+
+>>>>>>> cd69077b1da0e7b4ba6faee5275f89899c11fff8
 
 
 伪恋
