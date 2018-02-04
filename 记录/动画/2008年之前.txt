@@ -15,7 +15,6 @@ Code Geass 亡国的阿基德
 
 
 圣石小子	2001
-南家三姐妹	ただいま
 
 北斗神拳	
 
@@ -24,7 +23,7 @@ Code Geass 亡国的阿基德
 圣母在上	2004	s1 s2 s3 s4
 舞-HIME	2004
 舞-乙HIME	2005
-南家三姐妹	2007	s1 おかわり　おかえり
+南家三姐妹	2007	s1 おかわり　おかえり	ただいま
 Code Geass	2006	s1 R2
 To LOVE	2006	s1 s2 Darkness
 BLACK CAT	2005
