@@ -24,6 +24,7 @@
 <ruby>時<rp>(</rp><rt>とき</rt><rp>)</rp></ruby>の<ruby>隙間<rp>(</rp><rt>すきま</rt><rp>)</rp></ruby>に　<ruby>流<rp>(</rp><rt>なが</rt><rp>)</rp></ruby>され<ruby>続<rp>(</rp><rt>つづ</rt><rp>)</rp></ruby>けて<br>
 <ruby>知<rp>(</rp><rt>し</rt><rp>)</rp></ruby>らないわ　<ruby>周<rp>(</rp><rt>まわ</rt><rp>)</rp></ruby>りのことなど　<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>は<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>それだけ<br>
 	<br>
+	<br>
 <ruby>夢見<rp>(</rp><rt>ゆめみ</rt><rp>)</rp></ruby>てる？　<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>も<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>てない？<br>
 <ruby>語<rp>(</rp><rt>かた</rt><rp>)</rp></ruby>るも<ruby>無駄<rp>(</rp><rt>むだ</rt><rp>)</rp></ruby>な　<ruby>自分<rp>(</rp><rt>じぶん</rt><rp>)</rp></ruby>の<ruby>言葉<rp>(</rp><rt>ことば</rt><rp>)</rp></ruby><br>
 <ruby>悲<rp>(</rp><rt>かな</rt><rp>)</rp></ruby>しむなんて　<ruby>疲<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>れるだけよ<br>
@@ -43,6 +44,7 @@
 もし<ruby>変<rp>(</rp><rt>か</rt><rp>)</rp></ruby>われるのなら　<ruby>白<rp>(</rp><rt>しろ</rt><rp>)</rp></ruby>になる<br>
 	<br>
 	<br>
+	<br>
 <ruby>流<rp>(</rp><rt>なが</rt><rp>)</rp></ruby>れてく　<ruby>時<rp>(</rp><rt>とき</rt><rp>)</rp></ruby>の<ruby>中<rp>(</rp><rt>なか</rt><rp>)</rp></ruby>ででも<br>
 <ruby>気<rp>(</rp><rt>け</rt><rp>)</rp></ruby>だるさがほら　グルグル<ruby>廻<rp>(</rp><rt>まわ</rt><rp>)</rp></ruby>って<br>
 <ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>から<ruby>離<rp>(</rp><rt>はな</rt><rp>)</rp></ruby>れる<ruby>心<rp>(</rp><rt>こころ</rt><rp>)</rp></ruby>も<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>えないわ　そう<ruby>知<rp>(</rp><rt>し</rt><rp>)</rp></ruby>らない<br>
@@ -50,6 +52,7 @@
 <ruby>自分<rp>(</rp><rt>じぶん</rt><rp>)</rp></ruby>から　<ruby>動<rp>(</rp><rt>うご</rt><rp>)</rp></ruby>くこともなく<br>
 <ruby>時<rp>(</rp><rt>とき</rt><rp>)</rp></ruby>の<ruby>隙間<rp>(</rp><rt>すきま</rt><rp>)</rp></ruby>に　<ruby>流<rp>(</rp><rt>なが</rt><rp>)</rp></ruby>され<ruby>続<rp>(</rp><rt>つづ</rt><rp>)</rp></ruby>けて<br>
 <ruby>知<rp>(</rp><rt>し</rt><rp>)</rp></ruby>らないわ　<ruby>周<rp>(</rp><rt>まわ</rt><rp>)</rp></ruby>りのことなど　<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>は<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>それだけ<br>
+	<br>
 	<br>
 <ruby>夢見<rp>(</rp><rt>ゆめみ</rt><rp>)</rp></ruby>てる？　<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>も<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>てない？<br>
 <ruby>語<rp>(</rp><rt>かた</rt><rp>)</rp></ruby>るも<ruby>無駄<rp>(</rp><rt>むだ</rt><rp>)</rp></ruby>な　<ruby>自分<rp>(</rp><rt>じぶん</rt><rp>)</rp></ruby>の<ruby>言葉<rp>(</rp><rt>ことば</rt><rp>)</rp></ruby><br>
