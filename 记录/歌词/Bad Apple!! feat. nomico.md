@@ -1,22 +1,17 @@
-<!DOCTYPE html>
-<html>
-<head lang="en">
-	<meta charset="UTF-8">
-	<title>Bad Apple!! feat. nomico</title>
-</head>
-<body>
-<table>
-	<tbody>
-	<tr>
-		<th>歌手</th>
-		<td>Alstroemeria Records</td>
-	</tr>
+<h1>Bad Apple!! feat. nomico</h1>
 
-	<tr>
-		<th>原曲</th>
-		<td>ゲーム「東方幻想郷～ Lotus Land Story」主題歌</td>
-	</tr>
-	</tbody>
+<table>
+<tbody>
+<tr>
+<th>歌手</th>
+<td>Alstroemeria Records</td>
+</tr>
+
+<tr>
+<th>原曲</th>
+<td>ゲーム「東方幻想郷～ Lotus Land Story」主題歌</td>
+</tr>
+</tbody>
 </table>
 <br>
 <br>
@@ -95,6 +90,3 @@
 <ruby>重<rp>(</rp><rt></rt><rp>)</rp></ruby>い<ruby>目蓋<rp>(</rp><rt></rt><rp>)</rp></ruby>を　<ruby>開<rp>(</rp><rt></rt><rp>)</rp></ruby>けたのならば
 すべて<ruby>壊<rp>(</rp><rt></rt><rp>)</rp></ruby>すのなら　<ruby>黒<rp>(</rp><rt></rt><rp>)</rp></ruby>になれ！！！
 </div>
-
-</body>
-</html>
