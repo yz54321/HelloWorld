@@ -1,7 +1,7 @@
 黑塔利亚	s6
 咲-Saki-	阿知贺篇
 学生会的一己之见	lv2
-
+战国BASARA	s2 s3
 
 
 黑神
@@ -40,3 +40,4 @@ NEEDLESS
 天降之物		s1 f
 快要坏掉的八音盒
 信蜂		s1 REVERSE
+战国BASARA	s1
