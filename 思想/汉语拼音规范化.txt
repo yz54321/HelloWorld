@@ -19,6 +19,7 @@
 ei应为εi，ao应为au。
 ie(谢)其实是iε，ue(月)应为yüε。
 ui(贵)应为uεi。
+un(轮)应为uen。
 an在与y或i组合时是发的εn的音，即yεn(言)、iεn(先)。
 uan在与j q x y组合时是发成的üεn的音。
 
@@ -31,6 +32,7 @@ au -- ao -- 奥 少 包
 εn -- (y)an -- 眼 燕 岩
 iε -- ie -- 别 灭 写
 uεi -- ui -- 亏 会 水
+uen -- un -- 困 孙 村
 üε -- ue -- 决 却 雪
 iεn -- ian -- 天 点 现
 üεn -- (j)uan (q)uan (x)uan (y)uan -- 捐 权 玄 愿
@@ -40,7 +42,7 @@ iεn -- ian -- 天 点 现
 
 z c s这三个声母和j q c其实是一样的。
 原拼音没有λ这个韵母，可能为了区分出西和思的音，才分成两个声母。
-其中j q c用于与i ü组合，z c s用于与a e u λ组合。(没有与o和ε组合的情况)
+其中j q c用于与i ü组合，z c s用于与其他组合。
 但我们现在有了λ这个音，西和思可以分别用xi和xλ表示。
 所以可以直接弃掉z c s，都以j q c来表示。
 
@@ -120,11 +122,11 @@ j(i) q(i) x(i) y(i)
 jr(λ) qr(λ) xr(λ) r(λ)
 
 新的韵母表：
-a o e i u ü λ
+a o e i u ü λ 
 ai εi au ou
-an en in un
+an en in
 ang eng ing ong
-ia iε iu
-ua uo üε uεi
-iεn uan üεn
+ia iε iu iau
+ua uo uai uεi üε
+iεn uan uen üεn
 iang iong uang
