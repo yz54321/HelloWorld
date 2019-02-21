@@ -17,11 +17,11 @@
 
 复合韵母中，
 ei应为εi，ao应为au。
-ie(谢)其实是iε，ue(月)应为yüε。
 ui(贵)应为uεi。
-un(轮)应为uen。
+un(轮)应为uen。(虽然拼音中有jun qun xun yun，但这里是表示ün)。
+ie(谢)其实是iε，üe(与j q x y组合，如月)应为yüε。
 an在与y或i组合时是发的εn的音，即yεn(言)、iεn(先)。
-uan在与j q x y组合时是发成的üεn的音。
+üan(仅与j q x y组合，如玄)实际为üεn的音。
 
 总结：
 新表示方式 -- 原表示方式 -- 字例
@@ -29,13 +29,13 @@ uan在与j q x y组合时是发成的üεn的音。
 λ -- (z)i (c)i (s)i (r)i (zh)i (ch)i (sh)i -- 子 此 丝 日 之 迟 是
 ei -- εi -- 飞 为 被
 au -- ao -- 奥 少 包
-εn -- (y)an -- 眼 燕 岩
 iε -- ie -- 别 灭 写
-uεi -- ui -- 亏 会 水
-uen -- un -- 困 孙 村
-üε -- ue -- 决 却 雪
+üε -- (j)üe (q)üe (x)üe (y)üe -- 决 却 雪 约
+εn -- (y)an -- 眼 燕 岩
 iεn -- ian -- 天 点 现
 üεn -- (j)uan (q)uan (x)uan (y)uan -- 捐 权 玄 愿
+uεi -- ui -- 亏 会 水
+uen -- (d)un (t)un (l)un (g)un (k)un (h)un (z)un (c)un (s)un (zh)un (ch)un (sh)un (r)un -- 顿 吞 论 棍 困 混 尊 村 孙 准 春 顺 润
 
 
 再说声母。
@@ -90,7 +90,7 @@ yuan ：缘 愿 怨
 这里都以这些字的发音为标准，拼音与它们相同的都按一样的念法。
 
 总结：
-新表示方式 -- 原表示方式 -- 字例
+新拼法 -- 原拼法 -- 字例
 buo -- bo -- 播 波 勃 剥
 puo -- po -- 坡 婆 迫 泼
 muo -- mo -- 莫 摸 墨 末
@@ -122,11 +122,19 @@ j(i) q(i) x(i) y(i)
 jr(λ) qr(λ) xr(λ) r(λ)
 
 新的韵母表：
-a o e i u ü λ 
+a o e i u ü λ (ε不单独做韵母，不在此列出)
 ai εi au ou
-an en in
+an en in ün
 ang eng ing ong
 ia iε iu iau
 ua uo uai uεi üε
 iεn uan uen üεn
 iang iong uang
+
+
+
+
+例句：
+我也不知道
+不标准发音：wo yε bu ji dao
+标准发音：wuo yiε bu jrλ dao
