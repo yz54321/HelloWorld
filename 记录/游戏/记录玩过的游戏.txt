@@ -1,3 +1,7 @@
+Touhou Genso Wanderer Reloaded
+pokeMMO
+Diablo_II
+Age_of_Empires_II
 For.The.King
 Rain.World
 Senran.Kagura sv/se
@@ -13,8 +17,9 @@ tes	Skyrim oblivion morrowind
 Disgaea
 
 
-
-
+Call_of_Cthulhu
+Armello
 radical dungeon sweeper
 civ5
 Terraria
+The.Messenger
